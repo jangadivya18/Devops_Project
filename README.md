@@ -1,5 +1,5 @@
 
-JANGA DIVYA--Real Time Project
+JANGA DIVYA--Real Time Project END TO END CI/CD Project
 # MyProjectApp - Step by step End-to-End Deployment process
 
 ## Introduction
